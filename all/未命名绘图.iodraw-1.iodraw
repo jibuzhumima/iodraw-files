@@ -44,6 +44,11 @@
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;fontSize=11;strokeColor=#4874cb;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="USY9hK1jfYc2Cwp3Y-A0-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="391" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="331" y="390" />
+              <mxPoint x="331" y="392" />
+              <mxPoint x="230" y="392" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-16" value="F-score特征评分" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=1;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
