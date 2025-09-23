@@ -379,7 +379,7 @@
           <mxGeometry x="1295" y="290.82" width="179.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-255" value="SVM(支持向量机)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1295" y="256.82" width="179.5" height="25" as="geometry" />
+          <mxGeometry x="1290" y="256.82" width="184.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-256" value="K近邻(KNN)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1295" y="355.82" width="179.5" height="25" as="geometry" />
