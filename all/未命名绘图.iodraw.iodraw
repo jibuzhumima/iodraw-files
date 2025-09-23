@@ -406,7 +406,7 @@
           <mxGeometry x="1537.5" y="495" width="44.5" height="145" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-272" value="召回率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1582" y="571.3199999999999" width="200" height="25" as="geometry" />
+          <mxGeometry x="1582" y="571.32" width="158" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-273" value="精确率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1582" y="539.32" width="158" height="25" as="geometry" />
@@ -415,7 +415,7 @@
           <mxGeometry x="1582" y="505.32" width="158" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-275" value="F1分数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1582" y="604.3199999999999" width="200" height="25" as="geometry" />
+          <mxGeometry x="1582" y="604.32" width="158" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
