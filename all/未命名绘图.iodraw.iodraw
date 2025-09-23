@@ -256,7 +256,7 @@
           <mxGeometry x="1210" y="77.57" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-214" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=south;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1470.5" y="159.57" width="24.5" height="20" as="geometry" />
+          <mxGeometry x="1445.5" y="164" width="24.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-215" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="1299.5" y="829.75" width="110" height="180.25" as="geometry" />
@@ -373,7 +373,7 @@
           <mxGeometry x="1215.5" y="200.25" width="44.5" height="145" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-253" value="XGBoost(梯度提升树)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1260" y="276.57" width="179.5" height="25" as="geometry" />
+          <mxGeometry x="1260" y="276.57" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-254" value="随机森林(Random Forest)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1260" y="244.57" width="200" height="25" as="geometry" />
@@ -382,7 +382,7 @@
           <mxGeometry x="1260" y="210.57" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-256" value="K近邻(KNN)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1260" y="309.57" width="179.5" height="25" as="geometry" />
+          <mxGeometry x="1260" y="309.57" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-263" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="1269.5" y="450" width="130" height="110" as="geometry" />
