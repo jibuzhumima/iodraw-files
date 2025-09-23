@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-1" value="计算特征方差" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="180" width="120" height="20" as="geometry" />
+          <mxGeometry x="140" y="180" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="USY9hK1jfYc2Cwp3Y-A0-3">
           <mxGeometry relative="1" as="geometry">
