@@ -774,7 +774,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-435" value="数据标准化处理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1190" y="1453" width="179.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-436" value="训练集/测试集划分(70%/30%)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-436" value="无需目标域标签" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1190" y="1421" width="179.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-437" value="处理非线性、非平稳型号" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
