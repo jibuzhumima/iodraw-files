@@ -614,7 +614,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-526" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1321.25" y="1527.7" width="239.5" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-527" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;模型对比分析&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=#B9E0A5;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-527" value="&lt;p style=&quot;line-height: 148%; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;模型对比分析&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#B9E0A5;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="1578.25" y="1961" width="80.25" height="59" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-528" value="最优模型确定" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
@@ -638,7 +638,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-535" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1580.25" y="1433" width="239.5" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-536" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;数据集划分与处理&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=none;strokeColor=#a0b8e3;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;rounded=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-536" value="&lt;p style=&quot;line-height: 160%; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;数据集划分与处理&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=none;strokeColor=#a0b8e3;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;rounded=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1927.25" y="1960" width="80.25" height="60.66" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-537" value="数据标准化处理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
@@ -653,7 +653,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-540" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1852.25" y="1400" width="260" height="169" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-541" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;模型的选择与设计&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-541" value="&lt;p style=&quot;line-height: 160%; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;模型的选择与设计&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1818" y="1959.34" width="80.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-542" value="K近邻(KNN)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
