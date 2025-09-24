@@ -362,7 +362,7 @@
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=open;endFill=0;strokeColor=#4874cb;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="USY9hK1jfYc2Cwp3Y-A0-181" target="USY9hK1jfYc2Cwp3Y-A0-178">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="USY9hK1jfYc2Cwp3Y-A0-181" value="特征数是否合适？&lt;div style=&quot;font-size: 11px;&quot;&gt;(64-128维)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=1;fontFamily=Helvetica;fontSize=11;align=center;strokeWidth=1;spacing=6;spacingTop=5;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="USY9hK1jfYc2Cwp3Y-A0-181" value="达到50次迭代？" style="rhombus;whiteSpace=wrap;html=1;shadow=1;fontFamily=Helvetica;fontSize=11;align=center;strokeWidth=1;spacing=6;spacingTop=5;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-535" y="325" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-182" value="PCA降维处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=1;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
