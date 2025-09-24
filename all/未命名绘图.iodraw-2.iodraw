@@ -480,7 +480,7 @@
           <mxGeometry x="443.75" y="990" width="202.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="L8_KTzxqdaFXGhZbStnA-144" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="990" y="990" width="370" height="190" as="geometry" />
+          <mxGeometry x="990" y="990" width="350" height="190" as="geometry" />
         </mxCell>
         <mxCell id="L8_KTzxqdaFXGhZbStnA-145" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;振动信号采集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1063.75" y="990" width="202.5" height="48" as="geometry" />
@@ -490,7 +490,7 @@
             <mxPoint x="1330" y="1320" as="sourcePoint" />
             <mxPoint x="1380" y="1270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1068" y="1555" />
+              <mxPoint x="1077" y="1555" />
             </Array>
           </mxGeometry>
         </mxCell>
