@@ -643,19 +643,19 @@
           <mxGeometry x="1225" y="2301.19" width="84.25" height="52.63" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-502" value="相关性去除(皮尔逊相关函数)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1324.25" y="1654.5" width="209" height="25" as="geometry" />
+          <mxGeometry x="1157.5" y="2552.5" width="209" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-503" value="方差筛选(去除低方差特征)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1346.25" y="1593" width="209" height="25" as="geometry" />
+          <mxGeometry x="1179.5" y="2491" width="209" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-504" value="标准化(z-score)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1327" y="1532" width="209" height="25" as="geometry" />
+          <mxGeometry x="1160.25" y="2430" width="209" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-505" value="mRMR特征选择" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="1311.5" y="1721.25" width="209" height="25" as="geometry" />
+          <mxGeometry x="1144.75" y="2619.25" width="209" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-506" value="降维(PCA/&lt;span style=&quot;background-color: initial;&quot;&gt;LDA)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1298.5" y="1756.25" width="209" height="25" as="geometry" />
+          <mxGeometry x="1131.75" y="2654.25" width="209" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-507" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=east;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1083.5" y="1740.25" width="20" height="23" as="geometry" />
