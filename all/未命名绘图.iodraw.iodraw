@@ -681,8 +681,8 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-514" value="BPFI(内圈故障频率)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="939.5" y="1507" width="179.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-516" value="标准化(z-score)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1170.25" y="2440" width="209" height="25" as="geometry" />
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-516" value="&lt;span style=&quot;font-size: 16px; text-align: justify; text-wrap-mode: nowrap;&quot;&gt;数据特征提取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1327" y="2250" width="209" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
