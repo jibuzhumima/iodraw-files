@@ -828,54 +828,54 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-593" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=1;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="1970" width="440" height="220" as="geometry" />
+          <mxGeometry x="930.75" y="2220" width="949.25" height="220" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-594" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;问题一：数据分析与故障特征提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#a0b8e3;fillColor=#a0b8e3;" vertex="1" parent="1">
-          <mxGeometry x="941.5" y="1971" width="437" height="39" as="geometry" />
+          <mxGeometry x="932.25" y="2221" width="437" height="39" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-595" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;源域振动数据&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#a0b8e3;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="946" y="2109" width="94" height="40" as="geometry" />
+          <mxGeometry x="936.75" y="2359" width="94" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-596" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#a0b8e3;endArrow=open;endFill=0;" edge="1" parent="1" source="kmaB3f6CLQcJX39wV4DL-597" target="kmaB3f6CLQcJX39wV4DL-603">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-597" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;时域特征提取&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="2020" width="69" height="40" as="geometry" />
+          <mxGeometry x="1114.75" y="2270" width="69" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-598" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#a0b8e3;endArrow=open;endFill=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="kmaB3f6CLQcJX39wV4DL-599" target="kmaB3f6CLQcJX39wV4DL-603">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1265" y="2080" />
-              <mxPoint x="1159" y="2080" />
+              <mxPoint x="1255.75" y="2330" />
+              <mxPoint x="1149.75" y="2330" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-599" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;频域特征提取&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1230.25" y="2020" width="69" height="40" as="geometry" />
+          <mxGeometry x="1221" y="2270" width="69" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-600" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#a0b8e3;endArrow=open;endFill=0;" edge="1" parent="1" source="kmaB3f6CLQcJX39wV4DL-601" target="kmaB3f6CLQcJX39wV4DL-603">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1050" y="2060" />
-              <mxPoint x="1050" y="2080" />
-              <mxPoint x="1159" y="2080" />
+              <mxPoint x="1040.75" y="2310" />
+              <mxPoint x="1040.75" y="2330" />
+              <mxPoint x="1149.75" y="2330" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-601" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;时频域特征提取&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="2020" width="69" height="40" as="geometry" />
+          <mxGeometry x="1010.75" y="2270" width="69" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-602" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;特征矩阵(&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, &amp;quot;Cascadia Mono&amp;quot;, Consolas, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 13px; text-align: start; background-color: initial;&quot;&gt;N×d&#39;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#a0b8e3;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1277" y="2109" width="99.5" height="40" as="geometry" />
+          <mxGeometry x="1267.75" y="2359" width="99.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-603" value="&lt;span style=&quot;text-align: justify; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;数据特征提取&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1107.75" y="2090" width="101.5" height="29" as="geometry" />
+          <mxGeometry x="1098.5" y="2340" width="101.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-604" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;特征的筛选与整合&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1108.5" y="2140" width="100" height="40" as="geometry" />
+          <mxGeometry x="1099.25" y="2390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-605" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=east;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1050" y="2114" width="220" height="30" as="geometry" />
+          <mxGeometry x="1040.75" y="2364" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
