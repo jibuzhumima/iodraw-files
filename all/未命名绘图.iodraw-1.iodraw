@@ -306,8 +306,8 @@
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-112" value="&lt;font face=&quot;Times New Roman&quot;&gt;PCA n_components=0.9&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=1;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="1060" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="USY9hK1jfYc2Cwp3Y-A0-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=1;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="285" y="1130" width="190" height="20" as="geometry" />
+        <mxCell id="USY9hK1jfYc2Cwp3Y-A0-113" value="分类器&lt;div&gt;SVM/KNN/RF/XGBoost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=1;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285" y="1120" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-115" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Y&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="265" y="994" width="30" height="30" as="geometry" />
