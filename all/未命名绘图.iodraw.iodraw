@@ -567,7 +567,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-474" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;问题一：数据分析与故障特征提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#a0b8e3;" vertex="1" parent="1">
           <mxGeometry x="931.5" y="1961" width="393" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-477" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;输入：源域振动数据&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-477" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;源域振动数据&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="731" y="1390" width="195" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-478" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=south;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
