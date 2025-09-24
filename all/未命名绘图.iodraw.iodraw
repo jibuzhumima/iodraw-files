@@ -576,8 +576,8 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-363" value="五种算法性能排序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="998" y="1869.7" width="179.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-364" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;输入：源域数据(有标签)&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;目标域数据（无标签）&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="969" y="1774" width="210.5" height="40" as="geometry" />
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-364" value="&lt;p style=&quot;font-size: 15px; line-height: 100%;&quot;&gt;输入：源域数据(有标签)&lt;/p&gt;&lt;p style=&quot;font-size: 15px; line-height: 100%;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;目标域数据（无标签）&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="969" y="1750" width="210.5" height="64" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-365" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=east;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1182" y="1781.7" width="20" height="20" as="geometry" />
