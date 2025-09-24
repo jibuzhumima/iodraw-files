@@ -127,8 +127,8 @@
         <mxCell id="L8_KTzxqdaFXGhZbStnA-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="152.75" y="407.75" width="366.25" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="L8_KTzxqdaFXGhZbStnA-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="500" y="140" width="20" height="120" as="geometry" />
+        <mxCell id="L8_KTzxqdaFXGhZbStnA-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="543.5" y="70" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
