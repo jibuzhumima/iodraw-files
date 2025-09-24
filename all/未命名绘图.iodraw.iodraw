@@ -328,7 +328,7 @@
           <mxGeometry x="1789.5" y="173.32" width="23" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-245" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;输出：源于故障诊断最优模型&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="866" y="393.76" width="206.5" height="40" as="geometry" />
+          <mxGeometry x="1204" y="426.38" width="206.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-246" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1428.5" y="38.57" width="239.5" height="121" as="geometry" />
@@ -346,22 +346,22 @@
           <mxGeometry x="1478.5" y="55.57" width="179.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-251" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1680" y="27.569999999999993" width="260" height="140" as="geometry" />
+          <mxGeometry x="1702.75" y="28.999999999999993" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-252" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;模型的选择与设计&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1684.5" y="29" width="44.5" height="145" as="geometry" />
+          <mxGeometry x="1707.25" y="30.43" width="44.5" height="145" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-253" value="XGBoost(梯度提升树)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1729" y="100.26999999999998" width="200" height="25" as="geometry" />
+          <mxGeometry x="1751.75" y="101.69999999999999" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-254" value="随机森林(Random Forest)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1729" y="68.26999999999998" width="200" height="25" as="geometry" />
+          <mxGeometry x="1751.75" y="69.69999999999999" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-255" value="SVM(支持向量机)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1729" y="34.26999999999998" width="200" height="25" as="geometry" />
+          <mxGeometry x="1751.75" y="35.69999999999998" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-256" value="K近邻(KNN)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1729" y="133.26999999999998" width="200" height="25" as="geometry" />
+          <mxGeometry x="1751.75" y="134.7" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-263" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="1799" y="205.38" width="130" height="110" as="geometry" />
