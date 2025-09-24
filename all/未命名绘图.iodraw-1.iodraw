@@ -330,7 +330,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-121" value="&lt;font face=&quot;Times New Roman&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=1;arcSize=50;strokeColor=#4874cb;fillColor=#4874cb;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="850" width="80" height="25" as="geometry" />
+          <mxGeometry x="155" y="1210" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
