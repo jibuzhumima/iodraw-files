@@ -435,7 +435,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-290" value="无PCA直接分类" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1284.75" y="431.62" width="179.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-292" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kmaB3f6CLQcJX39wV4DL-288">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-292" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="kmaB3f6CLQcJX39wV4DL-288" target="kmaB3f6CLQcJX39wV4DL-290">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1490" y="430" as="sourcePoint" />
             <mxPoint x="1540" y="380" as="targetPoint" />
