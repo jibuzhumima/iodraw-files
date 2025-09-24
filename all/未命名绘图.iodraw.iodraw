@@ -253,7 +253,7 @@
           <mxGeometry x="491.5" y="29" width="179.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-213" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;输入：源域特征矩阵(问题一)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1195.5" y="28.999999999999993" width="195" height="40" as="geometry" />
+          <mxGeometry x="1195.5" y="39.99999999999999" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-215" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="1299.5" y="829.75" width="110" height="180.25" as="geometry" />
