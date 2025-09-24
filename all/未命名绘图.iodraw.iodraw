@@ -748,7 +748,7 @@
           <mxGeometry x="1575" y="1400" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-421" value="特征映射为域不变表示" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1500" width="100" height="42.75" as="geometry" />
+          <mxGeometry x="1560" y="1460" width="107.75" height="42.75" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-422" value="1D-CNN主干网络" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1557.75" y="1439.44" width="110" height="31.13" as="geometry" />
