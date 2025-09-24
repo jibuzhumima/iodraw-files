@@ -773,6 +773,9 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-579" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;问题二：&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;源域故障诊断&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#a0b8e3;fillColor=#a0b8e3;" vertex="1" parent="1">
           <mxGeometry x="1226.5" y="2244.16" width="490" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-580" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=east;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1321.25" y="2188.16" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
