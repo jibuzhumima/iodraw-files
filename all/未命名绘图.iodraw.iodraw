@@ -814,9 +814,6 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-624" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;dashed=1;dashPattern=1 1;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-618">
           <mxGeometry x="15.5" y="42" width="152.25" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-625" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;损失函数&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-618">
-          <mxGeometry x="41" y="42" width="89.5" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-626" value="域判别损失(L&lt;sub&gt;dom&lt;/sub&gt;)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-618">
           <mxGeometry x="27.75" y="117" width="130" height="25" as="geometry" />
         </mxCell>
@@ -825,9 +822,6 @@
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-628" value="λ调度策略" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-618">
           <mxGeometry x="29.5" y="152" width="130" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-629" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;对抗训练策略与优化设置&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-618">
-          <mxGeometry x="93.5" y="2.9200000000000728" width="190" height="39.08" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-631" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1200" y="2660" width="436" height="187.44000000000005" as="geometry" />
@@ -906,6 +900,12 @@
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-647" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;迁移模型学习方法选择动机&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="990" y="2530" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-629" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;对抗训练策略与优化设置&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="2580" width="190" height="39.08" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-625" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;损失函数&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="2640" width="89.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
