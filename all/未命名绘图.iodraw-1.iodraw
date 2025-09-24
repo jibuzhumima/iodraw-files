@@ -272,7 +272,7 @@
             <mxPoint x="419" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="USY9hK1jfYc2Cwp3Y-A0-103" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;1D-CNN&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="USY9hK1jfYc2Cwp3Y-A0-103" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;1D-CNN&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="870" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-104" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;传统机器学习模型&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Garamond;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
