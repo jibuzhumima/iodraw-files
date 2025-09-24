@@ -427,10 +427,10 @@
           <mxGeometry x="1234.75" y="414.62" width="239.5" height="121" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-287" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;特征处理流程比较&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1240.75" y="414.62" width="40" height="120" as="geometry" />
+          <mxGeometry x="1244.75" y="430" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-288" value="PCA降维后分类" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1284.75" y="497.62" width="179.5" height="25" as="geometry" />
+          <mxGeometry x="1284.75" y="482" width="179.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-290" value="无PCA直接分类" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1284.75" y="431.62" width="179.5" height="25" as="geometry" />
