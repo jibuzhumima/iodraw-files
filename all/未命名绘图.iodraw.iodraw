@@ -234,7 +234,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-206" value="PCA处理效果对比" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1209" y="165.7" width="179.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-207" value="四种算法性能排序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-207" value="五种算法性能排序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1209" y="135.7" width="179.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-208" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
