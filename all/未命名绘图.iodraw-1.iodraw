@@ -279,7 +279,7 @@
           <mxGeometry x="279" y="870" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-105" value="使用PCA？" style="rhombus;whiteSpace=wrap;html=1;shadow=1;fontFamily=Helvetica;fontSize=11;align=center;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="1000" width="150" height="40" as="geometry" />
+          <mxGeometry x="305" y="1010" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
