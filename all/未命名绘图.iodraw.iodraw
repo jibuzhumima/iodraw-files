@@ -645,7 +645,7 @@
           <mxGeometry x="1798.25" y="2007.01" width="80.25" height="60.66" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-537" value="标准化处理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1703.5" y="2109.6600000000003" width="43.75" height="58.18" as="geometry" />
+          <mxGeometry x="1703.5" y="2110" width="43.75" height="57.84" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-539" value="5折交叉验证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1753.5" y="2108.6600000000003" width="50" height="60" as="geometry" />
@@ -774,7 +774,7 @@
           <mxGeometry x="1484.75" y="2007.84" width="298.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-582" value="训练集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1844" y="2107.84" width="25" height="60" as="geometry" />
+          <mxGeometry x="1847.25" y="2109.6600000000003" width="25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-583" value="测试集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1811" y="2108.6600000000003" width="25" height="60" as="geometry" />
