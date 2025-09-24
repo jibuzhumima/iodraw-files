@@ -142,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L8_KTzxqdaFXGhZbStnA-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;梯度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;反转层&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=17;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="550" y="407.75" width="90" height="25.62" as="geometry" />
+          <mxGeometry x="541" y="350" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
