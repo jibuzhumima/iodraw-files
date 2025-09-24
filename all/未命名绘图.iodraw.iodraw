@@ -322,7 +322,7 @@
           <mxGeometry x="1443.5" y="615.38" width="20" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-244" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=north;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1555.25" y="379.08" width="23" height="20" as="geometry" />
+          <mxGeometry x="1555.25" y="383.08" width="23" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-245" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;输出：源于故障诊断最优模型&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1186.75" y="413.08" width="206.5" height="40" as="geometry" />
@@ -376,22 +376,22 @@
           <mxGeometry x="1807.75" y="175.43" width="24.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-270" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1467" y="232.5" width="218" height="140" as="geometry" />
+          <mxGeometry x="1467" y="236.5" width="218" height="140" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-271" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;评价指标计算&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1472.5" y="229" width="44.5" height="145" as="geometry" />
+          <mxGeometry x="1472.5" y="233" width="44.5" height="145" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-272" value="召回率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1517" y="305.32000000000005" width="158" height="25" as="geometry" />
+          <mxGeometry x="1517" y="309.32000000000005" width="158" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-273" value="精确率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1517" y="273.32000000000005" width="158" height="25" as="geometry" />
+          <mxGeometry x="1517" y="277.32000000000005" width="158" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-274" value="准确率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1517" y="239.31999999999994" width="158" height="25" as="geometry" />
+          <mxGeometry x="1517" y="243.31999999999994" width="158" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-275" value="F1分数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1517" y="338.32000000000005" width="158" height="25" as="geometry" />
+          <mxGeometry x="1517" y="342.32000000000005" width="158" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-276" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=east;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1765" y="453" width="20" height="23" as="geometry" />
