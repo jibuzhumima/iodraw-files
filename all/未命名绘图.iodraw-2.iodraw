@@ -130,6 +130,9 @@
         <mxCell id="L8_KTzxqdaFXGhZbStnA-38" value="&lt;font&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;域标签 &lt;/span&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;i&gt;d&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=17;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="900" y="442.06" width="90" height="25.62" as="geometry" />
         </mxCell>
+        <mxCell id="L8_KTzxqdaFXGhZbStnA-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
