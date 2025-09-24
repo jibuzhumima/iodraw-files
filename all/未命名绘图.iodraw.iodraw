@@ -709,10 +709,10 @@
           <mxGeometry x="1435.25" y="2415" width="208" height="65" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-444" value="最小化分类误差" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1208.5" y="2920" width="200" height="25" as="geometry" />
+          <mxGeometry x="1057.5" y="2914.7" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-445" value="最大化域判别器误差" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="2840" width="200" height="25" as="geometry" />
+          <mxGeometry x="1059" y="2834.7" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-446" value="&lt;p style=&quot;font-size: 15px; line-height: 50%;&quot;&gt;通过对&lt;/p&gt;&lt;p style=&quot;font-size: 15px; line-height: 50%;&quot;&gt;抗训练&lt;/p&gt;&lt;p style=&quot;font-size: 15px; line-height: 50%;&quot;&gt;使特征&lt;/p&gt;&lt;p style=&quot;font-size: 15px; line-height: 50%;&quot;&gt;提取器&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;direction=south;" vertex="1" parent="1">
           <mxGeometry x="890" y="2785.85" width="70" height="208" as="geometry" />
