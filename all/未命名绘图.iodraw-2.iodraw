@@ -812,7 +812,7 @@
           <mxGeometry x="1490" y="3360" width="130" height="210" as="geometry" />
         </mxCell>
         <mxCell id="L8_KTzxqdaFXGhZbStnA-257" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;size=230;rounded=1;whiteSpace=wrap;html=1;flipH=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="3250" width="233.75" height="330" as="geometry" />
+          <mxGeometry x="1200" y="3360" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="L8_KTzxqdaFXGhZbStnA-258" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;size=120;rounded=1;whiteSpace=wrap;html=1;flipH=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="3530" width="130" height="210" as="geometry" />
@@ -825,6 +825,9 @@
         </mxCell>
         <mxCell id="L8_KTzxqdaFXGhZbStnA-261" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;size=120;rounded=1;whiteSpace=wrap;html=1;flipH=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="4180" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="L8_KTzxqdaFXGhZbStnA-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L8_KTzxqdaFXGhZbStnA-257" target="L8_KTzxqdaFXGhZbStnA-257">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
