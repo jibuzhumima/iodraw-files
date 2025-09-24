@@ -831,7 +831,7 @@
           <mxGeometry x="930.75" y="2220" width="953" height="220" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-594" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;问题一：数据分析与故障特征提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#a0b8e3;fillColor=#a0b8e3;" vertex="1" parent="1">
-          <mxGeometry x="932.25" y="2221" width="437" height="39" as="geometry" />
+          <mxGeometry x="932.25" y="2221" width="947.75" height="39" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-595" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;源域振动数据&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#a0b8e3;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="936.75" y="2359" width="94" height="40" as="geometry" />
