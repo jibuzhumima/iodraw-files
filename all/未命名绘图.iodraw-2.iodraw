@@ -146,7 +146,7 @@
           <mxGeometry x="562.25" y="361.75" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L8_KTzxqdaFXGhZbStnA-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;特征提取器F(·；θ&lt;sub&gt;f&lt;/sub&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=17;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="280" y="401.75" width="160" height="25.62" as="geometry" />
+          <mxGeometry x="299" y="382.69" width="160" height="25.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
