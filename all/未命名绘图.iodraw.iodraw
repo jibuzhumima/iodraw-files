@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="PAKMk6vIe4X2fz1-kXs8">
-    <mxGraphModel dx="2205" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="2320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,9 +308,6 @@
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-232" value="连续小波变换" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1432" y="977.25" width="90" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-233" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="923" y="1110" width="397" height="219.37" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-234" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;多维度数据特征提取(并行处理)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=0;spacing=20;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="1204.5" y="780" width="280" height="70" as="geometry" />
