@@ -345,10 +345,11 @@
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;fontSize=11;strokeColor=#4874cb;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="USY9hK1jfYc2Cwp3Y-A0-181">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-460" y="160" as="targetPoint" />
+            <mxPoint x="-460" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-330" y="345" />
-              <mxPoint x="-330" y="160" />
+              <mxPoint x="-330" y="170" />
+              <mxPoint x="-460" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
