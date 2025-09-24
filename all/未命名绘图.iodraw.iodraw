@@ -692,8 +692,8 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-553" value="召回率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1793" y="2330" width="25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-554" value="精确率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1739" y="2219.1600000000003" width="158" height="25" as="geometry" />
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-554" value="精确率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1805.5" y="2152.66" width="25" height="57.34" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-555" value="准确率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1685.25" y="2078.3399999999997" width="158" height="25" as="geometry" />
