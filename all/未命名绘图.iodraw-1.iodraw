@@ -310,7 +310,7 @@
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-164" value="开始贝叶斯优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=1;arcSize=50;strokeColor=#4874cb;fillColor=#4874cb;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-500" y="70" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="USY9hK1jfYc2Cwp3Y-A0-165" value="随即评估少量超参数组合" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=1;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="USY9hK1jfYc2Cwp3Y-A0-165" value="随机评估少量超参数组合" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=1;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-555" y="110" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-166" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=open;endFill=0;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#4874cb;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="USY9hK1jfYc2Cwp3Y-A0-165" target="USY9hK1jfYc2Cwp3Y-A0-167">
@@ -330,7 +330,7 @@
           <mxGeometry x="-555" y="199" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-171" value="选择下一个评估点" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=1;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-555" y="237" width="190" height="20" as="geometry" />
+          <mxGeometry x="-555" y="240" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=open;endFill=0;strokeColor=#4874cb;shadow=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="USY9hK1jfYc2Cwp3Y-A0-170" target="USY9hK1jfYc2Cwp3Y-A0-171">
           <mxGeometry relative="1" as="geometry">
