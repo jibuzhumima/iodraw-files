@@ -130,17 +130,6 @@
         <mxCell id="L8_KTzxqdaFXGhZbStnA-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=north;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="210" y="350" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L8_KTzxqdaFXGhZbStnA-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="330" as="sourcePoint" />
-            <mxPoint x="210" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="340" />
-              <mxPoint x="490" y="340" />
-              <mxPoint x="470" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
