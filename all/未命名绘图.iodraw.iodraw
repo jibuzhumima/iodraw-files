@@ -767,6 +767,12 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-577" value="支持向量机(SVM)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1901.25" y="1404" width="200" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-578" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=1;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1970" width="440" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-579" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;问题一：数据分析与故障特征提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#a0b8e3;fillColor=#a0b8e3;" vertex="1" parent="1">
+          <mxGeometry x="941.5" y="1971" width="437" height="39" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
