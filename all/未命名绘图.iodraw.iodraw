@@ -639,21 +639,6 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-383" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=south;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1596.75" y="1909.43" width="24.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-384" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="929.5" y="2720.8" width="223" height="109.5" as="geometry" />
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-385" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;结果可视化与分析&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="935" y="2720" width="44.5" height="110.3" as="geometry" />
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-386" value="性能指标表格" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="979.5" y="2793.62" width="158" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-387" value="混淆矩阵" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="979.5" y="2761.62" width="158" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-388" value="t-SNE特征分布图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="979.5" y="2727.62" width="158" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-390" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;混淆矩阵分析&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1221" y="1903" width="208" height="40" as="geometry" />
         </mxCell>
@@ -824,6 +809,24 @@
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-453" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;对抗训练策略与优化设置&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1858.5" y="2662.92" width="190" height="39.08" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-455" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="929.5" y="2720" width="223" height="110.30000000000018" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-384" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-455">
+          <mxGeometry y="0.8000000000001819" width="223" height="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-385" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;结果可视化与分析&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-455">
+          <mxGeometry x="5.5" width="44.5" height="110.3" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-386" value="性能指标表格" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-455">
+          <mxGeometry x="50" y="73.61999999999989" width="158" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-387" value="混淆矩阵" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-455">
+          <mxGeometry x="50" y="41.61999999999989" width="158" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-388" value="t-SNE特征分布图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-455">
+          <mxGeometry x="50" y="7.619999999999891" width="158" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
