@@ -771,7 +771,7 @@
           <mxGeometry x="1901.25" y="1404" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-579" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;问题二：&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;源域故障诊断&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#a0b8e3;fillColor=#a0b8e3;" vertex="1" parent="1">
-          <mxGeometry x="1226.5" y="2244.16" width="437" height="39" as="geometry" />
+          <mxGeometry x="1226.5" y="2244.16" width="493.5" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
