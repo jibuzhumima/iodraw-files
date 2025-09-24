@@ -73,7 +73,7 @@
             <mxPoint x="570" y="234.95999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L8_KTzxqdaFXGhZbStnA-29" value="&lt;p style=&quot;line-height: 140%; font-size: 21px;&quot;&gt;&lt;font color=&quot;#a0cd7b&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Times New Roman&quot;&gt;特征&lt;/font&gt;&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Times New Roman&quot;&gt;f&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="L8_KTzxqdaFXGhZbStnA-29" value="&lt;p style=&quot;line-height: 140%; font-size: 21px;&quot;&gt;&lt;font color=&quot;#5b9827&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Times New Roman&quot;&gt;特征&lt;/font&gt;&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Times New Roman&quot;&gt;f&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="597" y="201" width="20.5" height="92.31" as="geometry" />
         </mxCell>
         <mxCell id="L8_KTzxqdaFXGhZbStnA-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=17.714285714285715;endSize=5.348571428571428;" edge="1" parent="1">
