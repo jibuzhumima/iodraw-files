@@ -82,7 +82,7 @@
             <mxPoint x="570" y="234.95999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L8_KTzxqdaFXGhZbStnA-29" value="特征f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="L8_KTzxqdaFXGhZbStnA-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;特征f&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="580" y="404.87" width="15" height="75.13" as="geometry" />
         </mxCell>
       </root>
