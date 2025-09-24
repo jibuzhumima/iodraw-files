@@ -562,7 +562,7 @@
           <mxGeometry x="1116.75" y="1175.15" width="24.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-473" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=1;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1960" width="397" height="210" as="geometry" />
+          <mxGeometry x="930" y="1960" width="397" height="200" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-474" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;问题一：数据分析与故障特征提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#a0b8e3;" vertex="1" parent="1">
           <mxGeometry x="931.5" y="1961" width="393" height="49" as="geometry" />
