@@ -708,8 +708,8 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-411" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;迁移学习模型构建(DANN)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1435.25" y="2415" width="208" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-444" value="最小化分类误差" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1155.25" y="2757.65" width="30" height="122.35" as="geometry" />
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-444" value="最小化分类误差&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="2757.65" width="35" height="122.35" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-445" value="最大化域判别器误差&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
           <mxGeometry x="908.25" y="2757.65" width="33.5" height="97.2" as="geometry" />
