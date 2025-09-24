@@ -615,7 +615,7 @@
           <mxGeometry x="1321.25" y="1527.7" width="239.5" height="112" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-527" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;模型对比分析&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1479.75" y="2048.34" width="87.5" height="120" as="geometry" />
+          <mxGeometry x="1479.75" y="2048.34" width="80.25" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-528" value="最优模型确定" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1371.25" y="1604.7" width="179.5" height="25" as="geometry" />
@@ -633,7 +633,7 @@
           <mxGeometry x="1555.25" y="1451.7" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-534" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;输出：源于故障诊断最优模型&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1479.75" y="1980" width="85.5" height="58.34" as="geometry" />
+          <mxGeometry x="1479.75" y="1980" width="80.25" height="58.34" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-535" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1580.25" y="1433" width="239.5" height="121" as="geometry" />
