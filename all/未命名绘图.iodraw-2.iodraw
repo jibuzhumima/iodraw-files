@@ -127,7 +127,7 @@
         <mxCell id="L8_KTzxqdaFXGhZbStnA-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=north;size=0.5;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="190" y="350" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L8_KTzxqdaFXGhZbStnA-42" value="" style="endArrow=block;html=1;rounded=0;curved=1;strokeWidth=3;endSize=3;endFill=1;" edge="1" parent="1">
+        <mxCell id="L8_KTzxqdaFXGhZbStnA-42" value="" style="endArrow=block;html=1;rounded=0;curved=1;strokeWidth=3;endSize=4;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="350" as="sourcePoint" />
             <mxPoint x="190" y="320" as="targetPoint" />
@@ -160,7 +160,7 @@
         <mxCell id="L8_KTzxqdaFXGhZbStnA-51" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;curved=1;endSize=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="574" y="161" as="sourcePoint" />
-            <mxPoint x="184" y="191" as="targetPoint" />
+            <mxPoint x="180" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="474" y="191" />
               <mxPoint x="344" y="131" />
