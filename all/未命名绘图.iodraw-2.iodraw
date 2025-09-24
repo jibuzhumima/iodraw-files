@@ -154,11 +154,11 @@
         <mxCell id="L8_KTzxqdaFXGhZbStnA-46" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;标签预测器C(·;θ&lt;/font&gt;&lt;font style=&quot;font-size: 16.6667px;&quot; face=&quot;Times New Roman&quot;&gt;c&lt;/font&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=17;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="671" y="279.63" width="160" height="25.62" as="geometry" />
         </mxCell>
-        <mxCell id="L8_KTzxqdaFXGhZbStnA-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=north;size=0.5;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="629" y="259.63" width="251" height="30" as="geometry" />
+        <mxCell id="L8_KTzxqdaFXGhZbStnA-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;size=0.5;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="701" y="333.12" width="251" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L8_KTzxqdaFXGhZbStnA-49" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;标签预测器C(·;θ&lt;/font&gt;&lt;font style=&quot;font-size: 16.6667px;&quot; face=&quot;Times New Roman&quot;&gt;c&lt;/font&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=17;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="681" y="289.63" width="160" height="25.62" as="geometry" />
+          <mxGeometry x="312" y="486" width="160" height="25.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
