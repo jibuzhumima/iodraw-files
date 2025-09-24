@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kmaB3f6CLQcJX39wV4DL-467" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="796.5" y="2770" width="348.25" height="150" as="geometry" />
+          <mxGeometry x="790" y="2770" width="354.75" height="150" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-1" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;输入：源域振动数据&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="223" y="51" width="195" height="40" as="geometry" />
