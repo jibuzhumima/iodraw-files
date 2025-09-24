@@ -802,7 +802,7 @@
           <mxGeometry x="1346.25" y="1620" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-446" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;迁移学习模型构建(DANN)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1462.5" y="1477.76" width="208" height="40" as="geometry" />
+          <mxGeometry x="1346.25" y="1670" width="208" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
