@@ -721,13 +721,13 @@
           <mxGeometry x="855.12" y="2850" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-455" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1200" y="2780" width="300" height="140" as="geometry" />
+          <mxGeometry x="1200" y="2780" width="300" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-384" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-455">
           <mxGeometry x="-10.676156583629892" y="10" width="310.67615658362985" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-385" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;结果可视化与分析&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-455">
-          <mxGeometry x="8.00711743772242" y="7.5" width="51.34163701067615" height="140" as="geometry" />
+          <mxGeometry x="8.01" y="7.5" width="41.99" height="140" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-386" value="性能指标表格" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-455">
           <mxGeometry x="75.80071174377224" y="99" width="201.77935943060496" height="25" as="geometry" />
@@ -736,7 +736,7 @@
           <mxGeometry x="75.80071174377224" y="65" width="201.77935943060496" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-388" value="t-SNE特征分布图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-455">
-          <mxGeometry x="75.80071174377224" y="31" width="201.77935943060496" height="25" as="geometry" />
+          <mxGeometry x="60" y="31" width="217.58" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-456" value="" style="group;dashed=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="791" y="2540" width="348.25" height="192.92000000000007" as="geometry" />
