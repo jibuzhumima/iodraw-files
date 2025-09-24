@@ -844,7 +844,7 @@
           <mxGeometry x="1356.25" y="2425" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-465" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=south;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1490" y="2510" width="24.5" height="20" as="geometry" />
+          <mxGeometry x="1472.5" y="2510" width="24.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
