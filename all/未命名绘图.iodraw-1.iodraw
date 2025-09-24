@@ -298,6 +298,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="921" as="sourcePoint" />
             <mxPoint x="475" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1020" />
+              <mxPoint x="520" y="1050" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="USY9hK1jfYc2Cwp3Y-A0-109" value="&lt;font face=&quot;Times New Roman&quot;&gt;z-score标准化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=1;strokeColor=#4874cb;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
