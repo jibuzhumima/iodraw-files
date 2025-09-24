@@ -690,7 +690,7 @@
           <mxGeometry x="1634.75" y="1638" width="44.5" height="145" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-553" value="召回率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1353.25" y="2391.82" width="25" height="58.18" as="geometry" />
+          <mxGeometry x="1388" y="2392.6400000000003" width="25" height="58.18" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-554" value="精确率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1435" y="2391.6400000000003" width="25" height="59.18" as="geometry" />
