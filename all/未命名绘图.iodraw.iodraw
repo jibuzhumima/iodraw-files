@@ -424,21 +424,21 @@
           <mxGeometry x="1970" y="577" width="179.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-286" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1316.5" y="369.5" width="239.5" height="90" as="geometry" />
+          <mxGeometry x="1464" y="491" width="239.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-287" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;特征处理流程比较&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1326.5" y="364.5" width="40" height="100" as="geometry" />
+          <mxGeometry x="1474" y="486" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-288" value="PCA降维后分类" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1366.5" y="426.88" width="179.5" height="25" as="geometry" />
+          <mxGeometry x="1514" y="548.38" width="179.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-290" value="无PCA直接分类" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1366.5" y="376.5" width="179.5" height="25" as="geometry" />
+          <mxGeometry x="1514" y="498" width="179.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-292" value="" style="endArrow=open;startArrow=open;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;endSize=5;startSize=5;endFill=0;startFill=0;" edge="1" parent="1" source="kmaB3f6CLQcJX39wV4DL-288" target="kmaB3f6CLQcJX39wV4DL-290">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1571.75" y="374.88" as="sourcePoint" />
-            <mxPoint x="1621.75" y="324.88" as="targetPoint" />
+            <mxPoint x="1719.25" y="496.38" as="sourcePoint" />
+            <mxPoint x="1769.25" y="446.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
