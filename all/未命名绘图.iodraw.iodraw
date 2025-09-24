@@ -568,7 +568,7 @@
           <mxGeometry x="931.5" y="1961" width="393" height="39" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-477" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;源域振动数据&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1390" width="100" height="50" as="geometry" />
+          <mxGeometry x="936" y="2300" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-478" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=south;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="931.5" y="1611" width="24.5" height="20" as="geometry" />
@@ -595,7 +595,7 @@
           <mxGeometry x="702" y="1663.75" width="110" height="180.25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-486" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;频域特征提取&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1149" y="1310" width="69" height="40" as="geometry" />
+          <mxGeometry x="1205" y="2220" width="69" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-487" value="谱质心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="712" y="1781.25" width="90" height="25" as="geometry" />
@@ -613,7 +613,7 @@
           <mxGeometry x="948.5" y="1663.75" width="110" height="180.25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-492" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;时频域特征提取&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="926" y="1310" width="69" height="40" as="geometry" />
+          <mxGeometry x="982" y="2220" width="69" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-493" value="时频能量熵" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="958.5" y="1781.25" width="90" height="25" as="geometry" />
@@ -631,7 +631,7 @@
           <mxGeometry x="293" y="1443.82" width="397" height="219.37" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-498" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;数据特征提取&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=0;spacing=20;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="999" y="1380" width="150" height="70" as="geometry" />
+          <mxGeometry x="1055" y="2290" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-499" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=east;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="868" y="1538" width="20" height="20" as="geometry" />
@@ -640,7 +640,7 @@
           <mxGeometry x="1107.5" y="1654.5" width="270" height="162.75" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-501" value="&lt;p style=&quot;line-height: 180%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;特征的筛选与整合&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1169" y="1391.19" width="84.25" height="52.63" as="geometry" />
+          <mxGeometry x="1225" y="2301.19" width="84.25" height="52.63" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-502" value="相关性去除(皮尔逊相关函数)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1324.25" y="1654.5" width="209" height="25" as="geometry" />
@@ -664,7 +664,7 @@
           <mxGeometry x="1250.5" y="1624.75" width="23" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-509" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;特征矩阵(&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, &amp;quot;Cascadia Mono&amp;quot;, Consolas, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 13px; text-align: start; background-color: initial;&quot;&gt;N×d&#39;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1289" y="1400" width="99.5" height="50" as="geometry" />
+          <mxGeometry x="1345" y="2310" width="99.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-510" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="889.5" y="1490" width="239.5" height="121" as="geometry" />
