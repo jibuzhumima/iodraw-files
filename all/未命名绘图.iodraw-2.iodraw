@@ -164,7 +164,8 @@
             <Array as="points">
               <mxPoint x="550" y="170" />
               <mxPoint x="520" y="170" />
-              <mxPoint x="480" y="160" />
+              <mxPoint x="480" y="170" />
+              <mxPoint x="420" y="160" />
               <mxPoint x="380" y="130" />
               <mxPoint x="250" y="130" />
             </Array>
