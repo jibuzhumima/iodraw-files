@@ -20,10 +20,10 @@
           <mxGeometry x="562.5" y="540.5" width="15" height="121" as="geometry" />
         </mxCell>
         <mxCell id="L8_KTzxqdaFXGhZbStnA-6" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;rotation=-180;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="572.5" y="550.5" width="15" height="121" as="geometry" />
+          <mxGeometry x="617.5" y="550.5" width="15" height="121" as="geometry" />
         </mxCell>
         <mxCell id="L8_KTzxqdaFXGhZbStnA-7" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;rotation=-180;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="582.5" y="560.5" width="15" height="121" as="geometry" />
+          <mxGeometry x="680" y="600" width="15" height="121" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
