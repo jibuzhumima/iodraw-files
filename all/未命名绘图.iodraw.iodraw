@@ -986,7 +986,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-778" value="渐进式对抗权重调度" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;container=0;" vertex="1" parent="1">
           <mxGeometry x="3483.7194472361807" y="671.9407008086253" width="182.2613065326633" height="38.87621812150113" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-779" value="分类损失与域损失曲线" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;container=0;" vertex="1" parent="1">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-779" value="梯度加权类激活映射(Grad-CAM)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;container=0;" vertex="1" parent="1">
           <mxGeometry x="3483.7194472361807" y="613.6263736263736" width="182.2613065326633" height="38.87621812150113" as="geometry" />
         </mxCell>
       </root>
