@@ -941,7 +941,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-844" value="五种算法性能排序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1398.5" y="2042.48" width="43.75" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-845" value="分层分组5折交叉验证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-845" value="PCA处理效果对比" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1448.5" y="2042.48" width="50" height="128" as="geometry" />
         </mxCell>
       </root>
