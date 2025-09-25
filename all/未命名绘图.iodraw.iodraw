@@ -1031,13 +1031,13 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-799" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;预测可靠性评估&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;container=0;" vertex="1" parent="1">
           <mxGeometry x="3374.2" y="1090" width="172.03" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-800" value="信息熵不确定性量化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="3374.2" y="1196" width="205.96" height="25" as="geometry" />
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-800" value="信息熵不确定性量化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;container=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3357.24" y="1175.15" width="205.96" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-801" value="Top-1置信度计算" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;container=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="3352.52" y="1137.5" width="205.96" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-803" value="置信度等级划分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;container=0;" vertex="1" parent="1">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-803" value="置信度等级划分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;container=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="3374.2" y="1230" width="205.96" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-804" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;container=0;" vertex="1" parent="1">
