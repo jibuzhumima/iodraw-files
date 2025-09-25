@@ -971,6 +971,9 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-853" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;λ调度策略&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1383.5" y="2433.5" width="153" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-854" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#a0b8e3;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="1342" y="2330" width="30" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
