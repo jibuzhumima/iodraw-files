@@ -974,21 +974,6 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-809" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;事后可解释性分析&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;direction=west;" vertex="1" parent="1">
           <mxGeometry x="3240" y="2217" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-718" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="2799" y="2170.34" width="290" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-719" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;错误模型分析&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2806.743" y="2167.84" width="40.590333333333334" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-720" value="性能指标表格误判规律识别" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2857" y="2259.34" width="210.32733333333334" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-721" value="混淆矩阵解析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2857" y="2225.34" width="210.32733333333334" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-722" value="t-SNE可视化验证类别重叠" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2857" y="2191.34" width="210.32733333333334" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-735" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;dashed=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="3120" y="1610" width="488.25" height="247.73" as="geometry" />
         </mxCell>
@@ -1087,6 +1072,24 @@
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-827" value="&lt;p style=&quot;line-height: 180%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;预测可靠性评估&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-830">
           <mxGeometry x="12.120543293718166" width="46.267419354838715" height="149.99999999999974" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-831" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2799" y="2167.84" width="321" height="162.16" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-718" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-831">
+          <mxGeometry y="2.895714285714286" width="321.00000000000006" height="150.57714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-719" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;错误模型分析&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-831">
+          <mxGeometry x="8.570699999999933" width="44.929300000000005" height="162.16000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-720" value="性能指标表格误判规律识别" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-831">
+          <mxGeometry x="64.2" y="105.98314285714287" width="232.81060000000002" height="28.95714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-721" value="混淆矩阵解析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-831">
+          <mxGeometry x="64.2" y="66.60142857142857" width="232.81060000000002" height="28.95714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-722" value="t-SNE可视化验证类别重叠" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-831">
+          <mxGeometry x="64.2" y="27.21971428571429" width="232.81060000000002" height="28.95714285714286" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
