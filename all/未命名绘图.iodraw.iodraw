@@ -983,7 +983,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-777" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;注意力机制分析&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;container=0;" vertex="1" parent="1">
           <mxGeometry x="3502.29608040201" y="555.312046444122" width="125.47989949748742" height="62.201948994401825" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-778" value="渐进式对抗权重调度" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;container=0;" vertex="1" parent="1">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-778" value="故障频段响应热图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;container=0;" vertex="1" parent="1">
           <mxGeometry x="3483.7194472361807" y="671.9407008086253" width="182.2613065326633" height="38.87621812150113" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-779" value="梯度加权类激活映射(Grad-CAM)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;container=0;" vertex="1" parent="1">
