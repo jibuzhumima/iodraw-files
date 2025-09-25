@@ -1071,22 +1071,22 @@
           <mxGeometry x="8.5" y="-10" width="46.03" height="169.32" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-830" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2740" y="1997.89" width="294.5" height="140.00000000000023" as="geometry" />
+          <mxGeometry x="2770" y="1920" width="304.5" height="152.11" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-811" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-830">
-          <mxGeometry y="0.33999999999991815" width="294.5" height="139.66" as="geometry" />
+          <mxGeometry y="0.3694099999999105" width="304.50000000000006" height="151.74058999999974" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-813" value="置信度等级划分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-830">
-          <mxGeometry x="62.5" y="89.33999999999992" width="210.32733333333334" height="25" as="geometry" />
+          <mxGeometry x="64.62224108658744" y="97.06790999999976" width="217.4691782682513" height="27.162499999999955" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-814" value="信息熵不确定性量化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-830">
-          <mxGeometry x="62.5" y="55.33999999999992" width="210.32733333333334" height="25" as="geometry" />
+          <mxGeometry x="64.62224108658744" y="60.12690999999981" width="217.4691782682513" height="27.162499999999955" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-815" value="Top-1置信度计算" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-830">
-          <mxGeometry x="62.5" y="21.340000000000146" width="210.32733333333334" height="25" as="geometry" />
+          <mxGeometry x="64.62224108658744" y="23.18591000000012" width="217.4691782682513" height="27.162499999999955" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-827" value="&lt;p style=&quot;line-height: 180%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;预测可靠性评估&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-830">
-          <mxGeometry x="11" width="41.99" height="140" as="geometry" />
+          <mxGeometry x="11.37351443123939" width="43.41580645161291" height="152.10999999999976" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
