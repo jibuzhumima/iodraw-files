@@ -31,14 +31,11 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-730" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;故障机理驱动特征构建&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-723">
           <mxGeometry x="57.4824120603015" y="60.957910014513764" width="125.47989949748742" height="58.05515239477502" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-731" value="域判别损失(L&lt;sub&gt;dom&lt;/sub&gt;)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-723">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-731" value="多域特征物理意义对齐" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-723">
           <mxGeometry x="38.905778894472355" y="169.81132075471692" width="182.2613065326633" height="36.28447024673439" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-732" value="计算故障特征频率(BPFI/BPFO/BSF)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-723">
           <mxGeometry x="38.905778894472355" y="115.38461538461536" width="182.2613065326633" height="36.28447024673439" as="geometry" />
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-733" value="λ调度策略" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-723">
-          <mxGeometry x="41.359296482412056" y="220.60957910014508" width="182.2613065326633" height="36.28447024673439" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-734" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;事前可解释性&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-723">
           <mxGeometry x="131.08793969849245" y="4.238026124818682" width="266.38190954773864" height="56.7198838896952" as="geometry" />
