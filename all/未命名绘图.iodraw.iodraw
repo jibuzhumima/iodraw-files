@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="PAKMk6vIe4X2fz1-kXs8">
-    <mxGraphModel dx="1292" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1044,13 +1044,13 @@
           <mxGeometry x="1576.75" y="2602.21" width="39" height="136" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-889" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;Top-1置信度计算&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1638" y="2656.5" width="136" height="39" as="geometry" />
+          <mxGeometry x="1680" y="2606.01" width="136" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-890" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;信息熵不确定性量化&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1739.5" y="2608" width="39" height="136" as="geometry" />
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-890" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;信息熵不确定性量化&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1691" y="2656.5" width="136" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-891" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;置信度等级划分&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1793.25" y="2608" width="39" height="136" as="geometry" />
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-891" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;置信度等级划分&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1689.88" y="2704" width="136" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
