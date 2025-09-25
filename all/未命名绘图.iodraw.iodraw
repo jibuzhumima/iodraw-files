@@ -653,9 +653,6 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-580" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=west;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1479.75" y="1939.84" width="298.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-582" value="训练集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1842.25" y="2042" width="25" height="59.66" as="geometry" />
-        </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-583" value="测试集" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1806" y="2042" width="25" height="58.66" as="geometry" />
         </mxCell>
@@ -698,12 +695,6 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-591" value="" style="endArrow=open;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=0;endSize=3;strokeColor=#a0b8e3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="kmaB3f6CLQcJX39wV4DL-583" target="kmaB3f6CLQcJX39wV4DL-536">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1783.5" y="2050.84" as="sourcePoint" />
-            <mxPoint x="1843.5" y="2009.8400000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-592" value="" style="endArrow=open;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=0;endSize=3;strokeColor=#a0b8e3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="kmaB3f6CLQcJX39wV4DL-582" target="kmaB3f6CLQcJX39wV4DL-536">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1828.5" y="2050.84" as="sourcePoint" />
             <mxPoint x="1843.5" y="2009.8400000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
