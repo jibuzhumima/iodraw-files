@@ -1038,19 +1038,19 @@
           <mxGeometry x="2778" y="2045.6700000000003" width="210.32733333333334" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-818" value="&lt;p style=&quot;font-size: 15px; line-height: 50%;&quot;&gt;伪标签质量验证&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="2040.5" y="2325" width="220" height="50" as="geometry" />
+          <mxGeometry x="2750" y="1920" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-819" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="2319" y="2310.34" width="260" height="139.66" as="geometry" />
+          <mxGeometry x="2710" y="1760" width="260" height="139.66" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-820" value="边界样本谨慎分配" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2347" y="2399.34" width="210.32733333333334" height="25" as="geometry" />
+          <mxGeometry x="2738" y="1849" width="210.32733333333334" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-821" value="置信度提升验证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2347" y="2365.34" width="210.32733333333334" height="25" as="geometry" />
+          <mxGeometry x="2738" y="1815" width="210.32733333333334" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-822" value="多辅助分支伪标签生成机制" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2347" y="2331.34" width="210.32733333333334" height="25" as="geometry" />
+          <mxGeometry x="2738" y="1781" width="210.32733333333334" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-735" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;dashed=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="3120" y="1592.27" width="488.25" height="265.46" as="geometry" />
