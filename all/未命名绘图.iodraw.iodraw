@@ -633,7 +633,7 @@
           <mxGeometry x="1691.75" y="1969.84" width="80.25" height="51" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-553" value="召回率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1546.5" y="2042.48" width="25" height="127.52" as="geometry" />
+          <mxGeometry x="1564" y="2042.48" width="25" height="127.52" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-554" value="精确率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1603" y="2041" width="25" height="128.52" as="geometry" />
@@ -642,7 +642,7 @@
           <mxGeometry x="1639.5" y="2042.48" width="25" height="127.52" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-556" value="F1分数" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="2042.48" width="25" height="127.52" as="geometry" />
+          <mxGeometry x="1525.25" y="2042.48" width="25" height="127.52" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-570" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;模型性能评估&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cdac;strokeColor=none;fontStyle=0;fontSize=13;fontFamily=Helvetica;textShadow=0;fontColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1590.88" y="1969.84" width="80.25" height="50" as="geometry" />
@@ -937,6 +937,12 @@
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-843" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=south;strokeColor=#a0b8e3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="940" y="2106" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-844" value="数据标准化处理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1708.5" y="2052" width="43.75" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-845" value="分层分组5折交叉验证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1758.5" y="2052" width="50" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
