@@ -1008,7 +1008,7 @@
           <mxGeometry x="2811" y="1910.23" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-819" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;dashed=1;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="2771" y="1750.23" width="260" height="139.66" as="geometry" />
+          <mxGeometry x="2750" y="1750.23" width="281" height="139.66" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-820" value="边界样本谨慎分配" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="2799" y="1839.23" width="210.32733333333334" height="25" as="geometry" />
