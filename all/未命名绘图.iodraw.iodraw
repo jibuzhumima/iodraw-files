@@ -962,7 +962,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-769" value="故障频率附近激活验证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-765">
           <mxGeometry x="271.6394472361809" y="181.94070080862528" width="182.2613065326633" height="38.87621812150113" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-770" value="卷积核时频响应分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-765">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-770" value="分类损失与域损失曲线" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-765">
           <mxGeometry x="271.6394472361809" y="123.62637362637362" width="182.2613065326633" height="38.87621812150113" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-771" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;dashed=1;dashPattern=1 1;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-765">
