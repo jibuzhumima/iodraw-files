@@ -1035,13 +1035,13 @@
           <mxGeometry x="1245.25" y="2586" width="172.75" height="168.42" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-886" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;t-SNE可视化验证类别重叠&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1457.25" y="2604" width="39" height="136" as="geometry" />
+          <mxGeometry x="1470" y="2602.21" width="39" height="136" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-887" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;混淆矩阵解析&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1510.25" y="2604" width="39" height="136" as="geometry" />
+          <mxGeometry x="1523" y="2602.21" width="39" height="136" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-888" value="&lt;p style=&quot;line-height: 148%;&quot;&gt;性能指标表格误判规律识别&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=#76BAFF;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1564" y="2604" width="39" height="136" as="geometry" />
+          <mxGeometry x="1576.75" y="2602.21" width="39" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
