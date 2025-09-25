@@ -1073,9 +1073,6 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-815" value="Top-1置信度计算" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="2598" y="2051.34" width="210.32733333333334" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-817" value="风险控制建议" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2601.46" y="2196" width="210.32733333333334" height="25" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
