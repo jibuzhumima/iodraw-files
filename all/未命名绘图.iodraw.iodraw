@@ -974,6 +974,9 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-854" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#a0b8e3;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="1542.75" y="2317.42" width="17.25" height="32.58" as="geometry" />
         </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-855" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#a0b8e3;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="1552.75" y="2327.42" width="17.25" height="82.58" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
