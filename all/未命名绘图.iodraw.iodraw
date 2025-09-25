@@ -978,7 +978,7 @@
           <mxGeometry x="987" y="2553" width="191" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-865" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;迁移过程可解释性&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1194.5" y="2553" width="205" height="30" as="geometry" />
+          <mxGeometry x="1208" y="2553" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-866" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;事后可解释性&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1435.5" y="2553" width="188.88" height="30" as="geometry" />
