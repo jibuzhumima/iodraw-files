@@ -1055,6 +1055,9 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-808" value="置信度等级划分" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cdac;fontSize=13;fontFamily=Helvetica;fontStyle=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="3374.2" y="1381.22" width="205.96" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-809" value="&lt;p style=&quot;font-size: 15px; line-height: 50%;&quot;&gt;通过对&lt;span style=&quot;background-color: initial;&quot;&gt;抗训练&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;使特征&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;提取器&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#acd68e;strokeColor=none;fontStyle=0;fontSize=15;fontFamily=Helvetica;textShadow=0;fontColor=default;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="2465.12" y="1580" width="220" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
