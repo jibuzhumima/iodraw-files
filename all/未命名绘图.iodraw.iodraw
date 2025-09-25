@@ -863,7 +863,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-735" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7A7A7A;strokeWidth=4;opacity=40;shadow=0;glass=0;arcSize=9;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;dashed=1;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-723">
           <mxGeometry y="2.9200000000000728" width="348.25" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-734" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;对抗训练策略与优化设置&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-723">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-734" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;事前可解释性&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=none;fontStyle=0;fontFamily=Helvetica;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="kmaB3f6CLQcJX39wV4DL-723">
           <mxGeometry x="93.5" y="2.9200000000000728" width="190" height="39.08" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-736" value="" style="group" vertex="1" connectable="0" parent="1">
