@@ -653,7 +653,7 @@
         <mxCell id="kmaB3f6CLQcJX39wV4DL-580" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.69;dx=14.5;direction=west;notch=0;strokeColor=none;fillColor=#a6d973;fontSize=13;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1479.75" y="1939.84" width="298.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmaB3f6CLQcJX39wV4DL-583" value="训练集/测试集（70%&lt;div&gt;/30%）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
+        <mxCell id="kmaB3f6CLQcJX39wV4DL-583" value="训练集/测试集(70%&lt;div&gt;/30%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;fillColor=none;fontSize=13;fontFamily=Helvetica;fontStyle=0;align=center;verticalAlign=middle;fontColor=default;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1806" y="2042" width="54" height="128" as="geometry" />
         </mxCell>
         <mxCell id="kmaB3f6CLQcJX39wV4DL-585" value="" style="endArrow=open;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=0;endSize=3;strokeColor=#a0b8e3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="kmaB3f6CLQcJX39wV4DL-556" target="kmaB3f6CLQcJX39wV4DL-570">
